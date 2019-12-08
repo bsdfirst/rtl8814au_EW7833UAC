@@ -1,5 +1,7 @@
 # Edimax AC1750 Driver
 
+## *** NO LONGER MAINTAINED ***
+
 Linux kernel module for the AC1750 USB3 adapter from Edimax patched to support newer kernels.
 
  * This repo has a branch per upstream version (4.3.21 at initial commit).
